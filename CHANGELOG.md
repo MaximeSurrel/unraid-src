@@ -1,3 +1,9 @@
+## #2 Adding Logos
+
+Features:
+
+ - PNG Icon : Ombi
+
 ## #1 Adding Logos
 
 Features:
